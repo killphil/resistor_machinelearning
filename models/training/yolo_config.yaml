@@ -1,0 +1,8 @@
+path: Path_To_Segmentation_Dataset_Yolo
+
+train: train\images    # Path to training images
+val: val\images       # Path to validation images
+test: test\images     # Path to test images
+
+nc: 1  # Number of classes
+names: ['Resistor']  # Class name
