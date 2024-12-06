@@ -1,0 +1,2 @@
+77.1654%_EfficientNetV2S.weights.h5 filter=lfs diff=lfs merge=lfs -text
+70.8661%_ConvNextTiny.weights.h5 filter=lfs diff=lfs merge=lfs -text
