@@ -18,7 +18,7 @@ Below is a representation of the preprocessing pipeline:
 
 ## Models
 
-This repository offers multiple models to choose from, with the best model achieving an accuracy of **84.25%**.  
+This repository offers multiple models to choose from, with the best model achieving an accuracy of **86.61%**.  
 However, there is still room for improvement, and the preprocessing steps might be highly specific to the dataset.
 
 ![Prediction Example](prediction.png)
