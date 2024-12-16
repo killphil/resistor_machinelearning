@@ -1,6 +1,6 @@
 # Machine Learning Based Resistor Classification
 
-This repository includes machine learning-based algorithms to classify 4- and 5-Band resistors.  
+This repository includes machine learning-based algorithms to classify 4- and 5-Band resistors.   
 The models within this repository are built with TensorFlow (2.16.1) and were trained on a small dataset: [Kaggle Resistor Dataset](https://www.kaggle.com/datasets/barrettotte/resistors). Due to the limited size of the dataset, transfer learning was applied.
 
 ## Preprocessing
