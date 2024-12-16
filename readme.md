@@ -9,7 +9,7 @@ In order for the models to predict a certain resistor, the images must be prepro
 The preprocessing relies on the following tools:
 
 - [rembg](https://github.com/danielgatis/rembg): For removing image backgrounds.
-- A custom-trained [YOLOv11n](https://docs.ultralytics.com/models/yolo11/)-Segmentation Model: Used for segmentation tasks.
+- A custom-trained [YOLOv11n-Segmentation ](https://docs.ultralytics.com/models/yolo11/) Model: Used for segmentation tasks.
 - [OpenCV](https://github.com/opencv/opencv-python): For additional image processing.
 
 Below is a representation of the preprocessing pipeline:
