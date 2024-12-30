@@ -21,7 +21,10 @@ Below is a representation of the preprocessing pipeline:
 This repository offers multiple models to choose from, with the best model achieving an accuracy of **86.61%**.  
 However, there is still room for improvement, and the preprocessing steps might be highly specific to the dataset.
 
-![Prediction Example](prediction.png)
+#### Example (1.5kΩ ± 5%)
+
+![4B-1K5-T5](4B-1K5-T5.jpg)
+![4B-1K5-T5-Prediction](4B-1K5-T5_prediction.png)
 
 
 
