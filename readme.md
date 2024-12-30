@@ -23,7 +23,10 @@ However, there is still room for improvement, and the preprocessing steps might 
 
 #### Example (1.5kΩ ± 5%)
 
-![4B-1K5-T5](4B-1K5-T5.jpg)
+<p align="center" width="100%">
+    <img width="75%" src="4B-1K5-T5.jpg">
+</p>
+
 ![4B-1K5-T5-Prediction](4B-1K5-T5_prediction.png)
 
 
