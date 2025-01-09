@@ -88,7 +88,7 @@ results_df = pd.DataFrame(results)
 
 
 # Save the results to an Excel file
-output_path = Path('./models/results.xlsx')
+output_path = Path('./models/results/classification/results.xlsx')
 output_path.parent.mkdir(parents=True, exist_ok=True)  # Create the directory if it doesn't exist
 results_df.to_excel(output_path, index=False)
 
