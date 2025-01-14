@@ -37,7 +37,7 @@ However, there is still room for improvement, and the preprocessing steps might 
     <img width="75%" src="4B-1K5-T5.jpg">
 </p>
 
-![4B-1K5-T5-Prediction](4B-1K5-T5_Prediction.png)
+![4B-1K5-T5-Prediction](4B-1K5-T5-Prediction.png)
 
 
 
