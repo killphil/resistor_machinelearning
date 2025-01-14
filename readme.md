@@ -18,7 +18,9 @@ The preprocessing relies on the following tools:
 
 Below is a representation of the preprocessing pipeline:
 
-![Preprocessing Pipeline](Preprocessing.png)
+<p align="center" width="100%">
+    <img width="100%" src="Preprocessing.png">
+</p>
 
 This preprocessing pipeline enabled a succesfull training of the classifiers:
 
@@ -37,7 +39,9 @@ However, there is still room for improvement, and the preprocessing steps might 
     <img width="75%" src="4B-1K5-T5.jpg">
 </p>
 
-![4B-1K5-T5-Prediction](4B-1K5-T5-Prediction.png)
+<p align="center" width="100%">
+    <img width="100%" src="4B-1K5-T5-Prediction.png">
+</p>
 
 
 
