@@ -1,7 +1,11 @@
 # Machine Learning Based Resistor Classification
 
+<p align="center" width="100%">
+    <img width="75%" src="ColourCodes.png">
+</p>
+
 This repository includes machine learning-based algorithms to classify 4- and 5-Band resistors.   
-The models within this repository are built with TensorFlow (2.16.1) and were trained on a small dataset: [Kaggle Resistor Dataset](https://www.kaggle.com/datasets/barrettotte/resistors). Due to the limited size of the dataset, transfer learning was applied.
+The models within this repository are built with TensorFlow (2.16.1) and were trained on a small dataset derived from a public [Dataset](https://www.kaggle.com/datasets/barrettotte/resistors). Due to the limited size of the dataset, transfer learning was applied.
 
 ## Preprocessing
 
@@ -14,7 +18,13 @@ The preprocessing relies on the following tools:
 
 Below is a representation of the preprocessing pipeline:
 
-![Preprocessing Pipeline](preprocessing.png)
+![Preprocessing Pipeline](Preprocessing.png)
+
+This preprocessing pipeline enabled a succesfull training of our classifiers:
+
+<p align="center" width="100%">
+    <img width="75%" src="TrainingComparison.jpg">
+</p>
 
 ## Models
 
@@ -27,7 +37,7 @@ However, there is still room for improvement, and the preprocessing steps might 
     <img width="75%" src="4B-1K5-T5.jpg">
 </p>
 
-![4B-1K5-T5-Prediction](4B-1K5-T5_prediction.png)
+![4B-1K5-T5-Prediction](4B-1K5-T5_Prediction.png)
 
 
 
