@@ -1,7 +1,7 @@
 # Machine Learning Based Resistor Classification
 
 <p align="center" width="100%">
-    <img width="75%" src="ColourCodes.png">
+    <img width="75%" src="Images/ColourCodes.png">
 </p>
 
 This repository includes machine learning-based algorithms to classify 4- and 5-Band resistors.   
@@ -19,28 +19,37 @@ The preprocessing relies on the following tools:
 Below is a representation of the preprocessing pipeline:
 
 <p align="center" width="100%">
-    <img width="100%" src="Preprocessing.png">
+    <img width="100%" src="Images/Preprocessing.png">
 </p>
 
 This preprocessing pipeline enabled a succesfull training of the classifiers:
 
 <p align="center" width="100%">
-    <img width="75%" src="TrainingComparison.jpg">
+    <img width="75%" src="Images/TrainingComparison.jpg">
 </p>
+
 
 ## Models
 
-This repository offers multiple models to choose from, with the best model achieving an accuracy of **86.61%**.  
+<p align="center" width="100%">
+    <img width="75%" src="Images/Architecture.png">
+</p>
+
+This repository offers multiple models to choose from with the best model achieving an accuracy of **86.61%**.  
 However, there is still room for improvement, and the preprocessing steps might be highly specific to the dataset.
 
-#### Example (1.5kΩ ± 5%)
+<p align="center" width="100%">
+    <img width="75%" src="Images/TrainingAccuracy.jpg">
+</p>
+
+### Example (1.5kΩ ± 5%)
 
 <p align="center" width="100%">
-    <img width="75%" src="4B-1K5-T5.jpg">
+    <img width="75%" src="Images/4B-1K5-T5.jpg">
 </p>
 
 <p align="center" width="100%">
-    <img width="100%" src="4B-1K5-T5-Prediction.png">
+    <img width="100%" src="Images/4B-1K5-T5-Prediction.png">
 </p>
 
 
