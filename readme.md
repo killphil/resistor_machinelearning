@@ -20,7 +20,7 @@ Below is a representation of the preprocessing pipeline:
 
 ![Preprocessing Pipeline](Preprocessing.png)
 
-This preprocessing pipeline enabled a succesfull training of our classifiers:
+This preprocessing pipeline enabled a succesfull training of the classifiers:
 
 <p align="center" width="100%">
     <img width="75%" src="TrainingComparison.jpg">
