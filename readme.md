@@ -65,15 +65,6 @@ The best performing model achieves an accuracy of **86.61%**.
 The models avalailable in this repository and their specific performance are listed in **Table 1**.
 
 <p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
 <caption style="text-align:left;caption-side:bottom;color: gray; font-style: italic; font-size:12px;">Table 1: Models and their Performance</caption>
   <tr>
