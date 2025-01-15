@@ -64,6 +64,7 @@ The best performing model achieves an accuracy of **86.61%**.
 
 The models avalailable in this repository and their specific performance are listed in **Table 1**.
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -137,6 +138,7 @@ The models avalailable in this repository and their specific performance are lis
     <td class="tg-1wig">98.43%</td>
   </tr>
 </tbody></table>
+</p>
 
 ### Example (1.5kΩ ± 5%)
 
