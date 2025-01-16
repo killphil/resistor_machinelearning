@@ -62,6 +62,11 @@ The best performing model achieves an accuracy of **86.61%**.
 
 The models avalailable in this repository and their specific performance are listed in **Table 1**.
 
+The ending of each model shows how the output is generated (see also **Figure 6**):
+* _lefright: normal input + vertical flip (*Paper: -v*)
+* _updown: normal input + horizontal flip (*Paper: -h*)
+* _averaged: normal input + horizontal flip + vertical flip + combined flip (*Paper: -v-h-c*)
+
 <p>
 <table class="tg"><thead>
   <tr>
@@ -130,18 +135,26 @@ The models avalailable in this repository and their specific performance are lis
 
 *Table 1: Models and their Performance*
 
-### Example (1.5kΩ ± 5%)
+**Figure 6** shows how the best performing Model, refered to as EfficientNetV2S_averaged, samples the input and generates a prediction. 
 
 <p align="center" width="100%">
-    <img width="75%" src="Images/4B-1K5-T5.jpg">
+    <img width="75%" src="Images/AveragedInputs.png">
 </p>
 
-*Figure 6: 4B-1K5-T5*
+*Figure 6: Illustration of the best performing Model: EfficientNetV2S_averaged*
+
+### Example 
+
+<p align="center" width="100%">
+    <img width="75%" src="Images/4B-1K5-T5.png">
+</p>
+
+*Figure 7: Exemplaric Calculation 4B-1K5-T5*
 
 <p align="center" width="100%">
     <img width="100%" src="Images/4B-1K5-T5-Prediction.png">
 </p>
 
-*Figure 7: Model Output*
+*Figure 8: Model Output for 4B-1K5-T5 type Resistor*
 
 
