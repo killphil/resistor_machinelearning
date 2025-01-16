@@ -141,7 +141,7 @@ The ending of each model shows how the output is generated (see also **Figure 6*
     <img width="75%" src="Images/AveragedInputs.png">
 </p>
 
-*Figure 6: Illustration of the best performing Model: EfficientNetV2S_averaged*
+*Figure 6: Illustration of the Averaging of Inputs*
 
 ### Example 
 
